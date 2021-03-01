@@ -19,7 +19,9 @@
 
 3. Buka folder Tucil2_13519181 pada text editor Anda
 
-4. Ubah jumlah simpul graf pada file 1351918.cpp line 106, yaitu assert(dag.size() == ....); isi titik-titik tersebut dengan jumlah simpul graf.
+4. Ubah jumlah simpul graf pada folder src file 1351918.cpp line 106, yaitu assert(dag.size() == ....); isi titik-titik tersebut dengan jumlah simpul graf.
+
+5. Copy file input yang ingin Anda test dari folder test ke folder src
 
 5. Buka kembali CLI Anda dan tuliskan command "g++ 13519181.cpp -o 13519181.exe"
 
